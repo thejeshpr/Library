@@ -1,7 +1,7 @@
 # Library
-Collection of Everything
+Collection of Popular Programming links
 
-Python
+# Python
 ---------
-A collection of surprising Python snippets and lesser-known features. 
-https://github.com/satwikkansal/wtfpython
+A collection of surprising Python snippets and lesser-known features [link](https://github.com/satwikkansal/wtfpython). 
+
